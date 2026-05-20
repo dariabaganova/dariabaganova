@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**dariabaganova/dariabaganova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Daria 👋
+Junior Business Analyst with technical background in data analysis and ML.
+## Skills
+### Business Analysis
+- Requirements Gathering
+- User Stories
+- BPMN 2.0
+- UML
+- AS-IS / TO-BE Process Modeling
+### Data Analysis
+- SQL
+- Python (pandas)
+- Excel
+- Data Visualization
+### Tools
+- Jira
+- Confluence
+- Miro
+- Git
+## Interests
+- FinTech
+- Product Analytics
+- AI Products
+- Process Optimization
+## Featured Projects
+Coming soon 🚀
